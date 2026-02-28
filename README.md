@@ -58,10 +58,7 @@ The tracking system integrates both spatial and temporal features to identify an
 - Improve ID assignment using context-aware features (e.g., surroundings, KNN-like matching).
 - Explore deep learning models for enhanced accuracy.
 
-## Company & Assignment Information
 
-This assignment was provided by Liat.ai 
-The goal is to develop a robust football player tracking system using machine learning and computer vision techniques.
 
 
 ## Contact
