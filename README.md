@@ -241,6 +241,7 @@ Each contains:
 * Bounding boxes
 * Consistent GLOBAL IDs
 * No alteration of original inputs
+<img width="667" height="330" alt="Image" src="https://github.com/user-attachments/assets/8bc9d3f4-257b-4189-8233-ca17a2b08874" />
 
 ---
 
